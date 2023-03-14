@@ -71,8 +71,7 @@ Full-Stack Flipkart with Admin Dashboard & Paytm Payment Gateway.
     <td><img src="https://user-images.githubusercontent.com/64949957/153996577-57b1a82d-064a-49dc-9055-e2bceb854ab2.PNG" alt="mockups" /></td>
   </tr>
       <tr>
-    <td><img src="![OrderPlacement](https://user-images.githubusercontent.com/34523663/224972874-a2fc692c-e4c5-4774-a592-477c5e749c4b.png)
-" alt="mockup" /></td>
+    <td><img src="https://user-images.githubusercontent.com/34523663/224972874-a2fc692c-e4c5-4774-a592-477c5e749c4b.png" alt="mockup" /></td>
     <td><img src="" alt="mockups" /></td>
   </tr>
 </table>
