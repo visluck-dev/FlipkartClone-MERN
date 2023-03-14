@@ -54,7 +54,7 @@ Full-Stack Flipkart with Admin Dashboard & Paytm Payment Gateway.
 - Stock Management: Decrease stock of product when shipped
 
 ## Sneak Peek of Admin Dashboard 🙈 :
-![Capture](![AdminDash](![AdminDash](https://user-images.githubusercontent.com/34523663/224972274-f393d9fa-4aeb-48cd-a76f-1c541fef5dd6.png)
+(![AdminDash](https://user-images.githubusercontent.com/34523663/224972274-f393d9fa-4aeb-48cd-a76f-1c541fef5dd6.png)
 
 )
 
